@@ -1,0 +1,14 @@
+name: Mock the World
+description: Mock the world but treat it seriously.
+
+meta_description: "A blog focus on life in the uk test and the mock the test website."
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://www.mockthetest.com/blog'
+baseurl:        '/blog'
+author:         'Warren Liu'
