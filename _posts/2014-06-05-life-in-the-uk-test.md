@@ -5,6 +5,12 @@ date:   2014-06-01 12:08:26
 categories: "test"
 disqus: true
 excerpt: "This is a personal experience of taking and passing the Life in the UK Test a while back ago, and some of the reasons why the this website is developed."
+keywords:
+- life in the uk test
+- life in the uk exam
+- uk settlement
+- united kingdom
+- review
 tags:
 - life in the uk test
 - personal
@@ -19,11 +25,11 @@ guesses for the rest.
 
 People (my solicitor especially) are saying that even native Britons wont be able to pass the Life
 in the UK Test without preparation, which I kinda of agree. After all, who on earth would try to remember
- _where did Herry III's fifth wife come from?_?
+ _where did Henry III's fifth wife come from?_?
 But with some time studying and remembering, it become fairly simple. After all, the government has no intention to
 train each immigrant to be [egghead](http://www.bbc.co.uk/programmes/b006z736), or drive away every possible candidates!
-The <span class="text-info">40 minutes test</span> took me 15 minutes to finish with double check,
-and hesitating whether to do a triple check to make the <span class="text-info">£50 test fee</span> more worthwhile.
+The **40 minutes test** took me 15 minutes to finish with double check,
+and hesitating whether to do a triple check to make the **£50 test fee** more worthwhile.
 
 ## Take the test
 Before the test, the supervisors would question about my name, DOB, etc., to make sure I know myself well enough.

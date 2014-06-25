@@ -8,6 +8,7 @@ keywords:
 - life in the uk test
 - life in the uk exam
 - uk settlement
+- united kingdom
 tags:
 - seo
 - life in the uk test
