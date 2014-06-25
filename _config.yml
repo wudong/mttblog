@@ -9,6 +9,7 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://www.mockthetest.com/blog'
+url:            'http://www.testlifeinuk.com'
+blogurl:        'http://www.testlifeinuk.com/blog'
 baseurl:        '/blog'
 author:         'Warren Liu'
